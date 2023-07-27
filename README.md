@@ -1,2 +1,2 @@
 # chpo_cms
-chop admin service
+chpo 관리자용 페이지
